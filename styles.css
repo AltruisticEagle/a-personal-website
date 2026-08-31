@@ -1,0 +1,28 @@
+h1 {
+    display: block;
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    display: block;
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    text-align: left;
+    font-weight: normal;
+}
+
+.blue_box {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: blue;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: 300px;
+}
