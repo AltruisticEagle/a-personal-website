@@ -25,6 +25,19 @@ h3 {
     font-weight: normal;
 }
 
+button {
+    width: 150px;
+}
+
+.button-container {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 .red_text {
     font-family: 'Lato', sans-serif;
     color: red;
