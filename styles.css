@@ -53,31 +53,44 @@ p {
     max-width: 800px;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.blue_box,
+.gray_box {
+    float: left;
+    clear: both;
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .blue_box {
     border: 2px solid black;
     border-radius: 10px;
     background-color: blue;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-    max-width: 300px;
+
+    width: 300px;
+    margin: 0;
+
+    padding: 20px;
 }
 
-.gray_box { 
-    border: 2px solid block;
+h2 {
+    clear: both;
+}
+
+.gray_box {
+    border: 2px solid black;
     border-radius: 10px;
     background-color: #c3c7c9;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
-    max-width: 500px;
-    margin-bottom: 25px
+
+    width: 500px;
+    margin: 0 0 25px 0;
+
+    padding: 20px;
 }
 
 .button-container {
