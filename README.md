@@ -7,7 +7,7 @@ AI was not used to write any code as part of this project; I used it to assist m
 In any case, I can proudly claim that every thought on the pages was typed out by human hands on a faltering keyboard. I really need a new one. 
 
 # Structure
-The link to the website is at ```www.jasonfang.com```.
+The link to the website is at ```https://altruisticeagle.github.io/a-personal-website/```.
 
 There are 7 pages to this very basic website, structured vaguely according to my resumé.
 
